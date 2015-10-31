@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ClientTest">
+</Property><Property Name="솔루션 파일" Value="C:\Users\Cho\Desktop\iocp\인터넷 예제\iocp_socket_pool_example\ClientTest\ClientTest.sln">
+</Property><Property Name="사용자 옵션 파일" Value="C:\Users\Cho\Desktop\iocp\인터넷 예제\iocp_socket_pool_example\ClientTest\ClientTest.suo">
+</Property><Property Name="Date" Value="2015년 2월 3일 화요일">
+</Property><Property Name="Time" Value="오후 15:17">
+</Property><Property Name="로그 번호" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ClientTest.sln" Description="파일을 C:\Users\Cho\Desktop\iocp\인터넷 예제\iocp_socket_pool_example\ClientTest\ClientTest.sln.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="ClientTest.suo" Description="파일을 C:\Users\Cho\Desktop\iocp\인터넷 예제\iocp_socket_pool_example\ClientTest\ClientTest.suo.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ClientTest" Source="ClientTest.vcproj" Description="Converting project file 'C:\Users\Cho\Desktop\iocp\인터넷 예제\iocp_socket_pool_example\ClientTest\ClientTest.vcproj'.">
+</Event><Event ErrorLevel="1" Project="ClientTest" Source="ClientTest.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="ClientTest" Source="ClientTest.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="ClientTest" Source="ClientTest.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="ClientTest" Source="ClientTest.vcproj" Description="Done converting to new project file 'C:\Users\Cho\Desktop\iocp\인터넷 예제\iocp_socket_pool_example\ClientTest\ClientTest.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ClientTest" Source="ClientTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ClientTest.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="ClientTest.sln" Description="Converted">
+</Event></UpgradeLog>
